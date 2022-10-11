@@ -1,4 +1,3 @@
-python-datetil
-ipython
 numpy
 pandas
+black
