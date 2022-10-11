@@ -1,0 +1,4 @@
+python-datetil
+ipython
+numpy
+pandas
